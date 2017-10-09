@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: palegreen;
+    font-size: 20px;
+}
+.box{
+    border:1px solid #ccc;
+}

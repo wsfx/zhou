@@ -1,0 +1,1 @@
+function fn(r){for(var n=[],f=0;f<r.length;f++)-1===n.indexOf(r[f])&&n.push(r[f]);return n}var arr=[1,2,3,4,5,1,2];console.log(fn(arr));

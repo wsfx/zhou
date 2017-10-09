@@ -1,0 +1,1 @@
+function removeArr(r){for(var e="",o=0;o<r.length;o++)-1===e.indexOf(r[o])&&(e+=r[o]);return e.split("")}console.log(removeArr(arr));
